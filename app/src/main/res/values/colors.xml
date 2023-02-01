@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorAccent">#27DEBF</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorTextSecondary">#8DEFEFEF</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorBG">#236156</color>
+
+
+    <color name="colorCard">#202020</color>
+    <color name="colorIconBG">#8D27DEBF</color>
+    <color name="colorTeal">#1AC6A9</color>
+    <color name="colorPurple">#5E35B1</color>
+    <color name="colorOrange">#F4511E</color>
+    <color name="colorYellow">#FDD835</color>
+    <color name="colorBlue">#3857F5</color>
+    <color name="colorGreen">#43A047</color>
+</resources>
